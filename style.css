@@ -1,4 +1,6 @@
 body {
-  background-color: dodgerblue;
+  font-family: Helvetica, sans-serif;
+  font-size: larger;
+  background-color: red;
   min-height: 100vh;
 }
