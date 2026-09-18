@@ -2,5 +2,10 @@ body {
   font-family: Helvetica, sans-serif;
   font-size: larger;
   background-color: red;
-  min-height: 70vh;
+  min-height: 100vh;
+}
+
+head {
+font-size: 200px;
+
 }
